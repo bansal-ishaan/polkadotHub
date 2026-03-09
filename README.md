@@ -2,7 +2,7 @@
 
 **RepuFi** is a decentralized reputation lending protocol where **trusted users (Backers)** can vouch for **low-rep users (Borrowers)** by staking PAS tokens and issuing on-chain **SoulBound Tokens (SBTs)**. This builds a trust layer for Web3 platforms like DAOs, grant programs, and job portals.
 
-🔗 **Live Demo:** [https://repufi.vercel.app](https://repufi.vercel.app)  
+🔗 **Live Demo:** [https://polkadotrepufied.onrender.com/](https://polkadotrepufied.onrender.com/)  
 
 ---
 
